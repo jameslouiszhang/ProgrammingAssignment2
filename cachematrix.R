@@ -1,8 +1,6 @@
 ##  cachematrix.R
-##  Michael Scherrer, 16 July 2014
-##
-##  Set of functions that can store and recall a cached version
-##  of a square matrix and its inverse matrix.
+##  
+## 
 
 ##  USAGE
 ##  
